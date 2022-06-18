@@ -1,7 +1,7 @@
 // NAVIGATIONS & CONTROL
 import React, { useState } from "react";
 import "./dashboard.scss";
-import { GiMusicalScore } from "react-icons/gi";
+// import { GiMusicalScore } from "react-icons/gi";
 import {
     RiHome5Fill,
     RiCompassDiscoverFill,
@@ -21,7 +21,7 @@ const Left = () => {
     return (
         <div className="left  min-h-screen">
             <header className="flex flex-row items-center py-2 mt-8 text-white text-2xl font-normal justify-center">
-                Adejarre <GiMusicalScore />
+                Adejarree
             </header>
 
             {/* SEARCHHHHHHHHH */}
