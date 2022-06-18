@@ -6,7 +6,7 @@ import Right from './Right'
 const Dashboard = () => {
 
     return (
-        <div className='flex flex-row max-w-screen'>
+        <div className='flex flex-col md:flex-row md:max-w-screen'>
             <Left />
             <Center />
             <Right />
