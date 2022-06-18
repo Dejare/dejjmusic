@@ -11,7 +11,7 @@ import './dashboard.scss'
 
 const Right = () => {
     return (
-        <div className='right text-white'>
+        <div className='right h-screen md:min-h-screen text-white'>
             {/* profile */}
             <div className="profile flex flex-row justify-between items-center p-8">
                 <div className='flex flex-row items-center'>

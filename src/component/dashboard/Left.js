@@ -19,7 +19,7 @@ const Left = () => {
     const handleSearch = (e) => { e.preventDefault() }
     // 
     return (
-        <div className="left h-full md:min-h-screen">
+        <div className="left h-full md:min-h-screen hidden md:block">
             <header className="flex flex-row items-center py-2 mt-8 text-white text-2xl font-normal justify-center">
                 Adejarree
             </header>
